@@ -12,9 +12,9 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=fleur
 device.name2=miel
-device.name3=
-device.name4=
-device.name5=
+device.name3=seur
+device.name4=sea
+device.name5=ocean
 supported.versions=11.0-14.0
 supported.patchlevels=
 '; } # end properties
