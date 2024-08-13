@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=kernel for POCO M4 Pro 4G/Redmi Note 11S 4G
+kernel.string=kernel for POCO M4 Pro 4G/Redmi Note 11S 4G/Redmi Note 12S 4G
 do.devicecheck=1
 do.modules=0
 do.systemless=1
